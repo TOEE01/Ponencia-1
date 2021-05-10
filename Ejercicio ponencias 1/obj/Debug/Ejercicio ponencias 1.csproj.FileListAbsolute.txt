@@ -1,0 +1,10 @@
+C:\Users\recin\source\repos\Ejercicio ponencias 1\bin\Debug\Ejercicio ponencias 1.exe.config
+C:\Users\recin\source\repos\Ejercicio ponencias 1\bin\Debug\Ejercicio ponencias 1.exe
+C:\Users\recin\source\repos\Ejercicio ponencias 1\bin\Debug\Ejercicio ponencias 1.pdb
+C:\Users\recin\source\repos\Ejercicio ponencias 1\obj\Debug\Ejercicio ponencias 1.csprojAssemblyReference.cache
+C:\Users\recin\source\repos\Ejercicio ponencias 1\obj\Debug\Ejercicio_ponencias_1.Form1.resources
+C:\Users\recin\source\repos\Ejercicio ponencias 1\obj\Debug\Ejercicio_ponencias_1.Properties.Resources.resources
+C:\Users\recin\source\repos\Ejercicio ponencias 1\obj\Debug\Ejercicio ponencias 1.csproj.GenerateResource.cache
+C:\Users\recin\source\repos\Ejercicio ponencias 1\obj\Debug\Ejercicio ponencias 1.csproj.CoreCompileInputs.cache
+C:\Users\recin\source\repos\Ejercicio ponencias 1\obj\Debug\Ejercicio ponencias 1.exe
+C:\Users\recin\source\repos\Ejercicio ponencias 1\obj\Debug\Ejercicio ponencias 1.pdb
